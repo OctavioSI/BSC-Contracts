@@ -1,15 +1,13 @@
 {
-    "nft": {
-        "tokens": [{
-                "id": 1,
-                "title": "Rui Barbosa"
-            },
-            {
-                "id": 5,
-                "title": "Clóvis Bevilaqua"
-            }
-        ]
-    },
+    "nft": [{
+            "id": 1,
+            "title": "Rui Barbosa"
+        },
+        {
+            "id": 5,
+            "title": "Clóvis Bevilaqua"
+        }
+    ],
     "users": [{
             "id": 1,
             "title": "DevLawyer"
